@@ -1,80 +1,107 @@
-# 👋 Hi, I'm Chinmayee D!  
+<h1 align="center">Hi 👋, I'm Chinmayee M D</h1>
+<h3 align="center">Aspiring Data Scientist | Data Analyst | BI Developer</h3>
 
-![Banner](./assets/banner.png) <!-- Replace with your dark mode banner path -->
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue?style=for-the-badge&logo=google-chrome)](https://github.com/ChinmayeeMD)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/your-linkedin-id/)  
-![GitHub followers](https://img.shields.io/github/followers/ChinmayeeMD?style=for-the-badge)  
-![GitHub Stars](https://img.shields.io/github/stars/ChinmayeeMD?style=for-the-badge)  
-![Made with Python](https://img.shields.io/badge/Made%20With-Python-yellow?style=for-the-badge&logo=python)  
-![Data Science](https://img.shields.io/badge/Role-Data%20Science%20Engineer-brightgreen?style=for-the-badge&logo=databricks)  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ChinmayeeMD&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://github.com/ChinmayeeMD?tab=followers"><img src="https://img.shields.io/github/followers/ChinmayeeMD?label=Followers&style=flat" alt="followers" /></a>
+  <img src="https://img.shields.io/github/stars/ChinmayeeMD?affiliations=OWNER%2CCOLLABORATOR&style=flat" alt="stars" />
+</p>
 
 ---
 
-## 🚀 About Me  
-🎓 I’m currently pursuing **Engineering in Computer Science (Data Science specialization)**.  
-💡 Passionate about **Data Analysis, Machine Learning, and Business Intelligence**.  
-📊 Skilled in transforming raw data into actionable insights.  
-🎯 Actively seeking opportunities in **Data Science & Analytics roles**.  
+## 🙋‍♀️ About Me
+- 🎓 Pursuing **Computer Science Engineering (Data Science)**  
+- 🛠 Skilled in **EDA, SQL, Python, Tableau, Excel, Power BI**  
+- 📚 Currently exploring **AI/ML & Web Scraping**  
+- 💡 Passionate about **Data Analytics, Business Intelligence, and Predictive Modeling**  
+- 💼 Actively seeking opportunities as **Data Scientist / Analyst / BI Engineer**
 
 ---
 
-## 🛠 Skills & Technologies  
+## 🚀 Tech Stack & Tools
 
-### 🔑 Core Technical Skills
-- **Programming**: Python (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn), SQL  
-- **Mathematics & Statistics**: Probability, Hypothesis Testing, Linear Algebra, Calculus  
-- **Data Handling**: Data Cleaning, Feature Engineering, Big Data Basics (Spark, Hadoop)  
-
-### 🤖 Machine Learning & AI
-- Regression, Classification, Clustering  
-- Model Evaluation (Cross-validation, Bias-Variance tradeoff)  
-- Deep Learning (Neural Networks, CNNs, RNNs)  
-- Natural Language Processing (NLP) Basics  
-- Model Deployment (Flask, FastAPI, Docker)  
-
-### 📊 Data Visualization & BI
-- Tableau, Power BI, Excel (Pivot Tables, Advanced Functions)  
-- Python Visualization (Matplotlib, Seaborn, Plotly)  
-
-### ☁️ Cloud & Tools
-- Cloud Platforms: AWS, Azure, GCP (Data & ML services)  
-- Git/GitHub (Version Control)  
-- Jupyter Notebook / VS Code  
-- Docker (Containerization)  
-- APIs for data collection  
-
-### 🧠 Soft Skills
-- Problem Solving & Critical Thinking  
-- Communication & Storytelling with Data  
-- Business Domain Understanding (Finance, E-commerce, Healthcare)  
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/EDA-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/AI%2FML-grey?style=for-the-badge&logo=tensorflow"/>
+  <img src="https://img.shields.io/badge/Web%20Scraping-20C997?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
 
 ---
 
-## 📈 Projects  
-Here are some of my featured repositories:  
+## 📌 Featured Projects
 
-- 🏥 [AI Breast Cancer Detection Using Thermal Images](https://github.com/ChinmayeeMD/AI-Breast-Cancer-Detection-By-Thermal-Images)  
-- 🛒 [Groceries Supply Chain Expiry Date Prediction](https://github.com/ChinmayeeMD/groceries_supplychain_expirydate_prediction)  
-- 🏠 [Zameen Real Estate Dataset EDA](https://github.com/ChinmayeeMD/DATA-ANALYT)  
-- 📊 Tableau & Power BI Dashboards (Customer Support Analysis, Food Preferences, etc.)  
+### 🔹 [EDA Using Python - Zomato Restaurants Data](https://github.com/ChinmayeeMD/EDAUsingPython-Project-on-Zomato-Restaurants-Data)  
+Exploratory Data Analysis on Zomato dataset.  
+**Tech:** Python, Pandas, Seaborn, Matplotlib  
 
 ---
 
-## 🎯 Learning Roadmap (2025 Focus)
-✔️ Strengthen **Python + SQL**  
-✔️ Build more **EDA + ML projects**  
-✔️ Master **Tableau & Power BI dashboards**  
-✔️ Learn **AI/ML (NLP, Deep Learning)**  
-✔️ Practice **Web Scraping & Automation**  
-✔️ Gain exposure to **Cloud & Big Data tools**  
+### 🔹 [Tableau Project - Customer Support Analysis](https://github.com/ChinmayeeMD/Tableau-Project-on-Customer-Support-Analysis)  
+Interactive Tableau dashboards for customer support KPIs.  
+**Tech:** Tableau  
 
 ---
 
-## 📬 Connect With Me  
-💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-id/)  
-📧 Email: yourmail@example.com  
-🌐 Portfolio: [GitHub Profile](https://github.com/ChinmayeeMD)  
+### 🔹 [AI - Breast Cancer Detection (Thermal Images)](https://github.com/ChinmayeeMD/AI-Breast-Cancer-Detection-By-Thermal-Images)  
+Deep Learning-based breast cancer detection.  
+**Tech:** Python, TensorFlow/Keras, CNN  
 
 ---
+
+### 🔹 [AI - Acne Grading by Images](https://github.com/ChinmayeeMD/AI-AcneGradingByImages)  
+Acne severity classification using CNNs.  
+**Tech:** Deep Learning, Python  
+
+---
+
+### 🔹 [Power BI Projects](https://github.com/ChinmayeeMD/DATA-ANALYTICS-PROJECT-USING-01-POWERBI)  
+Business Intelligence dashboards & insights.  
+**Tech:** Power BI  
+
+- [Project 1](https://github.com/ChinmayeeMD/DATA-ANALYTICS-PROJECT-USING-01-POWERBI)  
+- [Project 2](https://github.com/ChinmayeeMD/DATA-ANALYTICS-PROJECT-USING-POWERBI)  
+
+---
+
+### 🔹 [Excel Analytics Projects](https://github.com/ChinmayeeMD/DATA-ANALYTICS-PROJECTS-USING-EXCEL)  
+Excel-based dashboards & pivot analytics.  
+**Tech:** Excel  
+
+---
+
+### 🔹 [Python Analytics Project](https://github.com/ChinmayeeMD/DATA_ANALYTICS_PROJECT_USING_PYTHON)  
+EDA & visualization in Python.  
+**Tech:** Python, Pandas, Matplotlib  
+
+---
+
+## 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ChinmayeeMD&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChinmayeeMD&theme=radical" alt="GitHub Streak" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChinmayeeMD&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/your-linkedin-id/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/ChinmayeeMD"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
 ✨ *“Turning Data into Decisions, and Decisions into Impact.”*  
